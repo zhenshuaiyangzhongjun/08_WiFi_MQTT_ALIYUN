@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/CMakeFiles/bootloader
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/CMakeFiles/bootloader.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/CMakeFiles/bootloader-complete.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/SmartShoppingCart/08_WiFi_MQTT_ALIYUN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
